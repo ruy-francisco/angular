@@ -1,10 +1,10 @@
 .DS_STORE
 
-/dist/
+/jedi-academy/dist/
 /bazel-*
-/integration/bazel/bazel-*
+/jedi-academy/integration/bazel/bazel-*
 e2e_test.*
-node_modules
+/jedi-academy/node_modules
 bower_components
 tools/gulp-tasks/cldr/cldr-data/
 
@@ -29,7 +29,7 @@ yarn-error.log
 .build-analytics
 
 # rollup-test output
-/modules/rollup-test/dist/
+/jedi-academy/modules/rollup-test/dist/
 
 # User specific bazel settings
 .bazelrc.user
