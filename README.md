@@ -6,3 +6,5 @@ ncu -u
 npm install`  
 
 [Update package.json][https://www.npmjs.com/package/npm-check-updates]
+
+## [CLI Commands](https://angular.io/cli)
