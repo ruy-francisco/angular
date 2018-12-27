@@ -12,3 +12,7 @@
 
 ## Angular built-in structural directives
 [Structural Directives](https://angular.io/guide/structural-directives)
+
+## Course's links
+[App](https://github.com/cod3rcursos/meat-app-starter)  
+[Template](https://github.com/cod3rcursos/meat-app-template/blob/master/about.html)
