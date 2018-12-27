@@ -9,3 +9,6 @@
 
 ## CLI Commands
 [See CLI command list](https://angular.io/cli)
+
+## Angular built-in structural directives
+[Structural Directives](https://angular.io/guide/structural-directives)
